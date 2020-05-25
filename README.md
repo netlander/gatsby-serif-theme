@@ -24,10 +24,18 @@ Serif is a beautiful small business theme for Gatsby. It contains content types 
 - ESLint (google config)
 - Prettier code styling
 
+## Getting Started
+
+First clone the repo:
+
+```
+gatsby new gatsby-serif-theme-001 https://github.com/JugglerX/gatsby-serif-theme.git
+```
+
 ## Deployment
 
 ```
-npm install
+cd gatsby-serif-theme-001
 ```
 
 ```
